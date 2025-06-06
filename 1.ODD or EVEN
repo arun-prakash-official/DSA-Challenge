@@ -5,3 +5,4 @@ def isEven(self,n):
         print("false")
 N=int(input("Enter a Number: "))
 isEven(N)
+#checking vs shortcut clone
